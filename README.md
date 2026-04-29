@@ -13,7 +13,7 @@ As *Stored Procedures* são blocos de código SQL armazenados diretamente no ser
 
 ## 💻 Exemplo Prático: Controle de Estoque
 
-O arquivo [`Exemplo_procedure_sql`](./Exemplo_procedure_sql) contido neste repositório apresenta uma procedure clássica de baixa de estoque. Ela demonstra o uso de **Lógica de Controle (IF/ELSE)** dentro do banco, garantindo que um produto só seja vendido se houver quantidade suficiente em estoque.
+O arquivo [`Exemplo_procedure_sql.sql`](./Exemplo_procedure_sql.sql) contido neste repositório apresenta uma procedure clássica de baixa de estoque. Ela demonstra o uso de **Lógica de Controle (IF/ELSE)** dentro do banco, garantindo que um produto só seja vendido se houver quantidade suficiente em estoque.
 
 ## 👥 Integrantes do Grupo
 
